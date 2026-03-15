@@ -75,14 +75,14 @@
 - [ ] Add "Reserve this laptop" button for direct lead capture
 - [ ] Build admin dashboard from Leads sheet data
 - [ ] Duplicate for other product categories (phones, accessories)
-- [ ] Add multi-language support (English + Yoruba/Igbo/Hausa)
+- [ ] Add multi-language support
 
 ---
 
 ## 👨‍💻 Built By
 
 **FlowLogicLabs**
-*Automation Developer | No-Code Developer | Workflow Automation Specialist | Bot Developer*
+*Automation Developer | low or No-Code Developer | Workflow Automation Specialist | Chatbots and lead generation tools for businesses*
 
 
 📧 [falodiayokunle499@gmail.com](mailto:falodiayokunle499@gmail.com)
